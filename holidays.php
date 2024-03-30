@@ -53,6 +53,11 @@
            
            
 
+
+            <div class="holiday-item">
+                <h4>Maharashtra Din</h4>
+                <p>Date: May 1st	</p>
+            </div>
            
            
            
