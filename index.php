@@ -39,13 +39,18 @@
       
       // Check if it's the first or third Saturday
       if (dayOfMonth <= 7 || (dayOfMonth > 14 && dayOfMonth <= 21)) {
-        addPersonToList("Ramesh");
-        addPersonToList("Suresh");
+        addPersonToList("Subodh Waghmare");
+        addPersonToList("Vishal Dalvi");
+        addPersonToList("Ganesh Pardhe");
+        addPersonToList("Hemlata Jadhav");
+        addPersonToList("Nidhi Manoj");
       }
       // Check if it's the second or fourth Saturday
       else if ((dayOfMonth > 7 && dayOfMonth <= 14) || (dayOfMonth > 21 && dayOfMonth <= 28)) {
-        addPersonToList("Mohan");
-        addPersonToList("Sohan");
+        addPersonToList("Tejaswini Patil ");
+        addPersonToList("Chaitali");
+        addPersonToList("Hansraj");
+        addPersonToList("Kalyani Divate");
       }
       else {
         scheduleList.innerHTML = "<li class='list-group-item'>No one scheduled to work this Saturday.</li>";
