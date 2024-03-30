@@ -41,7 +41,7 @@
   <div class="container">
     <div class="links">
       <a href="saturday-schedule.php">Saturday Schedule</a>
-      <a href="holidays.php">Holi</a>
+      <a href="holidays.php">Holidays</a>
     </div>
   </div>
 
