@@ -28,7 +28,7 @@
 <body>
 
     <div class="container">
-        <h2 class="text-center mt-4 mb-3">Holidays in India 2024</h2>
+        <h2 class="text-center mt-4 mb-3">Holidays Cyber Rafting - 2024</h2>
         <div class="holiday-list">
             <div class="holiday-item">
                 <h4>Republic Day</h4>
